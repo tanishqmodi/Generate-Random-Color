@@ -64,3 +64,5 @@ btn3.addEventListener("click", () => {
   h1.innerText = newCol;
   h1.style.color = "black";
 });
+
+// Add New Feature
